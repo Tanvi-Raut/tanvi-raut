@@ -70,9 +70,9 @@
 
 ## 📫 Contact Me
 
-- ✉️ Email: tanvi.yourmail@example.com  
-- 💼 LinkedIn: [linkedin.com/in/tanviraut](https://linkedin.com/in/tanviraut)
-- 🌐 Portfolio (coming soon): [tanviraut.dev](https://tanviraut.dev)
+- ✉️ Email: tanviraut756@gmail.com 
+- 💼 LinkedIn: [linkedin.com/in/tanviraut](https://www.linkedin.com/in/tanvi-raut-3924392bb/)
+- 🌐 Portfolio (coming soon): [tanviraut.dev]()
 
 ---
 
