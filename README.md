@@ -48,12 +48,12 @@
 ### 1️⃣ Institute Management System (Java + Swing)
 - Desktop-based software to manage faculty, student records, leaves, fees, and exams
 - Built using Java and Swing GUI
-- [🔗 View Project](https://github.com/yourusername/institute-management-system)
+- [🔗 View Project]()
 
 ### 2️⃣ Student Quiz Management System (PHP + MySQL)
 - Web-based app where students can register, take quizzes, and view results
 - Admin panel for managing questions and results
-- [🔗 View Project](https://github.com/yourusername/quiz-management-system)
+- [🔗 View Project]()
 
 ### 3️⃣ Post Office Info Website (HTML, CSS, JavaScript)
 - Informative website for villagers to learn about post office schemes and services
