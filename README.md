@@ -55,10 +55,6 @@
 - Admin panel for managing questions and results
 - [🔗 View Project](https://github.com/Tanvi-Raut/Quiz-Management-System)
 
-### 3️⃣ Post Office Info Website (HTML, CSS, JavaScript)
-- Informative website for villagers to learn about post office schemes and services
-- Responsive design with easy navigation
-- [🔗 View Project](https://github.com/yourusername/post-office-info-site)
 
 ---
 
